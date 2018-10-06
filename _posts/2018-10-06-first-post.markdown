@@ -7,3 +7,5 @@ categories: jekyll update
 This is my first post. I'll be so happy if this works!
 
 This was added from my laptop.
+
+This is another line added from my laptop.
